@@ -24,7 +24,7 @@ async function userfind(offset = 0) {
         if (fetchedUsernames.length === 101) { // Assuming 100 is the limit per request
             setTimeout(() => userfind(offset + 100), 1000); // Increment offset and fetch next batch
         } else {
-            document.getElementById("output").innerText = 'All usernames have been fetched and stored.';
+            
         }
     } catch (error) {
         console.error('Error fetching user list:', error);
