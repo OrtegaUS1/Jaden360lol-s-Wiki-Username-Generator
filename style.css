@@ -1,0 +1,24 @@
+#output{
+font-size: 70px;  
+bottom: 30%;  
+right: 3%;
+position: fixed;
+left:2%;
+}
+body{
+background-color: rgb(68, 234, 23); 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+}
+#version {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;  
+    color:blue ;
+    position: fixed;
+    bottom: 1% ;
+    }
+    #title{
+    position: fixed;    
+    right:1% ;
+    top: 0.0001%; 
+    border-left: 20%;
+    }
