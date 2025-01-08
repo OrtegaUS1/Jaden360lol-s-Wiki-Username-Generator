@@ -41,7 +41,7 @@ function find() {
     const randomIndex = Math.floor(Math.random() * usernames.length);
     const selectedUsername = usernames[randomIndex];
     console.log('Randomly selected username:', selectedUsername);
-    document.getElementById("output").innerText = selectedUsername;
+    const userLink = `https://roblox-slap-battles.fandom.com/wiki/User:${selectedUsername}`; document.getElementById("output").innerHTML = `<a href="${userLink}" target="_blank">${selectedUsername}</a>`;
 }
 
 userfind();
