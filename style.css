@@ -29,3 +29,17 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     a {
         color: purple;
       }
+    #profile-picture{
+    right: 20%;  
+    position: fixed;
+    bottom: 30%;
+    width: 20%;
+    size: 100%;
+    
+    }
+   #Rank{
+    color: rgb(61, 61, 61);   
+     position: fixed;
+     bottom:10% ; 
+     font-size: 90px;  
+    }
