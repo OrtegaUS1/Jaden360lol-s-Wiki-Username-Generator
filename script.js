@@ -79,7 +79,7 @@ if (username === "Jaden360lol" || username === "Altforislandstrading") {
  if (username === "Rebeltech" || username === "MoodyDrummers" || username === "Witrine" || username === "Jijo Pijo Fijo" || username === "SuperiorShyguy" || username === "Player 111 battel dudes" || username === "" || username === "" || username === "" ) {
     rank = "Special 😎"; 
     }   
-    if (username === "XavierlikesGames" || username === "FennGaming264" || username === "MaxTheGuy" || username === "Lomainit35" || username === "Marigoldz1000" || username === "AmkGammer"  || username === "" || username === "") {
+    if (username === "XavierlikesGames" || username === "FennGaming264" || username === "MaxTheGuy" || username === "Lomainit35" || username === "Marigoldz1000" || username === "AmkGammer"  || username === "Dragonfoxkai" || username === "") {
         rank = "Normal 👍"; 
         }
         if (username === "Bdog7210" || username === "") {
