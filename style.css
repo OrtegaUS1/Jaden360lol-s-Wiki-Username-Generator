@@ -22,3 +22,10 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     top: 0.0001%; 
     border-left: 20%;
     }
+    a.custom-link {
+        color: black;
+        text-decoration: none;
+    }
+    a {
+        color: purple;
+      }
