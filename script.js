@@ -73,7 +73,7 @@ setTimeout(() => find(), 5000); // Wait for 5 seconds to ensure data is fetched 
 function Rank(){
 let username = document.getElementById("output").innerText;
 let rank = "unranked"
-if (username === "Jaden360lol" || username === "Altforislandstrading") {
+if (username === "Jaden360lol" || username === "Altforislandstrading" || username === "The Gravity Breaker") {
  rank = "Creator 👑"; 
  }                                                                                                                                                                                                 // i like ur box arts (make me one lol)
  if (username === "Rebeltech" || username === "MoodyDrummers" || username === "Witrine" || username === "Jijo Pijo Fijo" || username === "SuperiorShyguy" || username === "Player 111 battel dudes" || username === "AddictBWN" || username === "" || username === "" ) {
