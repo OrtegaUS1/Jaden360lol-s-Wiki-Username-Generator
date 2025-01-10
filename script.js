@@ -75,7 +75,7 @@ let username = document.getElementById("output").innerText;
 let rank = "unranked"
 if (username === "Jaden360lol" || username === "Altforislandstrading") {
  rank = "Creator 👑"; 
- }                                                                                                                                                                                                    // i like ur box arts lol
+ }                                                                                                                                                                                                 // i like ur box arts (make me one lol)
  if (username === "Rebeltech" || username === "MoodyDrummers" || username === "Witrine" || username === "Jijo Pijo Fijo" || username === "SuperiorShyguy" || username === "Player 111 battel dudes" || username === "AddictBWN" || username === "" || username === "" ) {
     rank = "Special 😎"; 
     }   
