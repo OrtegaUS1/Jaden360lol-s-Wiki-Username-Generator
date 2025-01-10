@@ -76,7 +76,7 @@ let rank = "unranked"
 if (username === "Jaden360lol" || username === "Altforislandstrading" || username === "The Gravity Breaker") {
  rank = "Creator 👑"; 
  }                                                                                                                                                                                                 // i like ur box arts (make me one lol)
- if (username === "Rebeltech" || username === "MoodyDrummers" || username === "Witrine" || username === "Jijo Pijo Fijo" || username === "SuperiorShyguy" || username === "Player 111 battel dudes" || username === "AddictBWN" || username === "" || username === "" ) {
+ if (username === "Rebeltech" || username === "MoodyDrummer" || username === "Witrine" || username === "Jijo Pijo Fijo" || username === "SuperiorShyguy" || username === "Player 111 battel dudes" || username === "AddictBWN" || username === "" || username === "" ) {
     rank = "Special 😎"; 
     }   
     if (username === "XavierlikesGames" || username === "FennGaming264" || username === "MaxTheGuy" || username === "Lomainit35" || username === "Marigoldz1000" || username === "AmkGammer"  || username === "Dragonfoxkai" || username === "Operationfesh" || username === "ExplodingSkeptic68" || username === "") {
