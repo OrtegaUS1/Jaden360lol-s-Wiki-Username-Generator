@@ -75,11 +75,11 @@ let username = document.getElementById("output").innerText;
 let rank = "unranked"
 if (username === "Jaden360lol" || username === "Altforislandstrading") {
  rank = "Creator 👑"; 
- }
- if (username === "Rebeltech" || username === "MoodyDrummers" || username === "Witrine" || username === "Jijo Pijo Fijo" || username === "SuperiorShyguy" || username === "Player 111 battel dudes" || username === "" || username === "" || username === "" ) {
+ }                                                                                                                                                                                                    // i like ur box arts lol
+ if (username === "Rebeltech" || username === "MoodyDrummers" || username === "Witrine" || username === "Jijo Pijo Fijo" || username === "SuperiorShyguy" || username === "Player 111 battel dudes" || username === "AddictBWN" || username === "" || username === "" ) {
     rank = "Special 😎"; 
     }   
-    if (username === "XavierlikesGames" || username === "FennGaming264" || username === "MaxTheGuy" || username === "Lomainit35" || username === "Marigoldz1000" || username === "AmkGammer"  || username === "Dragonfoxkai" || username === "perationfesh") {
+    if (username === "XavierlikesGames" || username === "FennGaming264" || username === "MaxTheGuy" || username === "Lomainit35" || username === "Marigoldz1000" || username === "AmkGammer"  || username === "Dragonfoxkai" || username === "Operationfesh" || username === "ExplodingSkeptic68" || username === "") {
         rank = "Normal 👍"; 
         }
         if (username === "Bdog7210" || username === "") {
