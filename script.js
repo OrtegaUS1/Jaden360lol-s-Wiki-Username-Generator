@@ -23,7 +23,7 @@ async function userfind(offset = 0) {
         usernames = usernames.concat(fetchedUsernames);
 
         if (fetchedUsernames.length === 101) {
-            setTimeout(() => userfind(offset + 100), 1000);
+            setTimeout(() => userfind(offset + 100), 1700);
         }
     } catch (error) {
         console.error('Error fetching user list:', error);
